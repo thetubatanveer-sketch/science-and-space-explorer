@@ -1,14 +1,4 @@
-CosmoQuest — Science & Space Explorer 🚀🔭
-
-A modern, responsive and interactive **single-file** Science & Space Explorer created for Task #17.
-
-## Files
-
-```text
-CosmoQuest/
-├── cosmoquest_space_explorer.html
-└── README_CosmoQuest.md
-```
+CosmoQuest — Science & Space Explorer 🚀
 
 ## Included
 
